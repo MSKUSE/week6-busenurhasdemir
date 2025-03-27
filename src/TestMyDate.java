@@ -1,6 +1,7 @@
 public class TestMyDate {
-
+/*
 	public static void main(String[] args) {
+
 		MyDate date = new MyDate(28,2,2017);
 		
 		String strRep = date.toString();
@@ -73,5 +74,5 @@ public class TestMyDate {
 			
 
 	}
-
+*/
 }
